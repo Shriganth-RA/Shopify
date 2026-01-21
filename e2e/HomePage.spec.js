@@ -1,6 +1,6 @@
 import { test, expect } from '@playwright/test'
 
-import { getFooterData } from '../utils/readFooterCSV'
+import { getFooterData } from '../utils/readFooterCsv'
 import * as data from '../fixtures/data.json'
 
 
